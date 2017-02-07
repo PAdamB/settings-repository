@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ColdFusion Files" />
-    <option name="defaultScopeName" value="ColdFusion Files" />
+    <option name="customScope" value="File '.../www/html/global/templates/_cardholderAgreementPopulator.cfm - [svp]'" />
+    <option name="defaultScopeName" value="File '.../www/html/global/templates/_cardholderAgreementPopulator.cfm - [svp]'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="ColdFusion Files" />
+    <option name="SEARCH_SCOPE" value="File '.../www/html/global/templates/_cardholderAgreementPopulator.cfm - [svp]'" />
   </component>
 </application>
