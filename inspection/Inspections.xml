@@ -110,9 +110,7 @@
   <inspection_tool class="ConvertSecondaryConstructorToPrimary" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ConvertToStringTemplate" enabled="false" level="INFO" enabled_by_default="false" />
   <inspection_tool class="CssMissingSemicolon" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="CssOptimizeSimilarProperties" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="CssOverwrittenProperties" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="CssUnusedSymbol" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="CssUnknownTarget" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CucumberExamplesColon" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CucumberMissedExamples" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CucumberTableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -300,6 +298,7 @@
     </option>
     <option name="myCustomValuesEnabled" value="true" />
   </inspection_tool>
+  <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="IfCanBeAssertion" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="IfCanBeSwitch" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="minimumBranches" value="3" />
