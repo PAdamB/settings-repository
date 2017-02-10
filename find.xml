@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ColdFusion Files" />
-    <option name="defaultScopeName" value="ColdFusion Files" />
+    <option name="customScope" value="File '.../isValidPatriotActData.cfm - [ablackburn]'" />
+    <option name="defaultScopeName" value="File '.../isValidPatriotActData.cfm - [ablackburn]'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="ColdFusion Files" />
+    <option name="SEARCH_SCOPE" value="File '.../isValidPatriotActData.cfm - [ablackburn]'" />
   </component>
 </application>
