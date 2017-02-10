@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../svp - [GCC-DevCenter]'" />
-    <option name="defaultScopeName" value="Directory '.../svp - [GCC-DevCenter]'" />
+    <option name="customScope" value="ColdFusion Files" />
+    <option name="defaultScopeName" value="ColdFusion Files" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../svp - [GCC-DevCenter]'" />
+    <option name="SEARCH_SCOPE" value="ColdFusion Files" />
   </component>
 </application>
