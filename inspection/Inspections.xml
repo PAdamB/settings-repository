@@ -229,7 +229,6 @@
   </inspection_tool>
   <inspection_tool class="FunctionWithInconsistentReturnsJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="FunctionWithMultipleLoopsJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="FunctionWithMultipleReturnPointsJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="GherkinBrokenTableInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="GherkinMisplacedBackground" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="GrDeprecatedAPIUsage" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -715,7 +714,7 @@
   </inspection_tool>
   <inspection_tool class="SuspiciousSystemArraycopy" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SuspiciousToArrayCall" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="SwitchStatementWithNoDefaultBranchJS" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="SwitchStatementWithNoDefaultBranchJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SynchronizationOnGetClass" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SynchronizationOnLocalVariableOrMethodParameter" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="reportLocalVariables" value="true" />
