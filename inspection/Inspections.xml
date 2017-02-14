@@ -149,6 +149,8 @@
   <inspection_tool class="ELMethodSignatureInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ELSpecValidationInJSP" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ELValidationInJSP" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="ES6ConvertRequireIntoImport" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="ES6ConvertVarToLetConst" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ES6Validation" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EjbClassBasicInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="EjbClassWarningsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -336,7 +338,9 @@
   <inspection_tool class="InvalidRequestParameters" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSClassNamingConvention" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JSDeclarationsAtScopeStart" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="JSFunctionExpressionToArrowFunction" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="JSStringConcatenationToES6Template" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="JUnit4AnnotatedMethodInJUnit3TestCase" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Java8CollectionRemoveIf" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Java8CollectionsApi" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -436,7 +440,6 @@
   <inspection_tool class="LoopStatementsThatDontLoop" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LoopToCallChain" enabled="false" level="INFO" enabled_by_default="false" />
   <inspection_tool class="MagicConstant" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="MagicNumberJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MalformedFormatString" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MalformedRegex" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MalformedXPath" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -473,10 +476,6 @@
   <inspection_tool class="NegatedConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NegatedIfStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NestedAssignmentJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="NestedConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="NestedFunctionJS" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_includeAnonymousFunctions" value="false" />
-  </inspection_tool>
   <inspection_tool class="NestedSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NestingDepthJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_limit" value="5" />
