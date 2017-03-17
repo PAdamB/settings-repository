@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Current File" />
-    <option name="FILE_MASK" value="*.cfm, *.cfml, *.cfc, *.js" />
+    <option name="FILE_MASK" value="*.cfm, *.cfml, *.cfc, *.js, *.properties" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,6 +17,7 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.cfm, *.cfml, *.cfc, *.js</mask>
+      <mask>*.cfm, *.cfml, *.cfc, *.js, *.properties</mask>
     </recentFileMasks>
   </component>
 </application>
