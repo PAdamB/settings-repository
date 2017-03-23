@@ -14,9 +14,9 @@
       <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.cfm, *.cfml, *.cfc, *.js</mask>
+      <mask>*.css</mask>
       <mask>*.cfm, *.cfml, *.cfc, *.js, *.properties</mask>
     </recentFileMasks>
   </component>
