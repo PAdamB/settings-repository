@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'selenium'" />
-    <option name="defaultScopeName" value="Project 'selenium'" />
-    <option name="SEARCH_SCOPE" value="Project 'selenium'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="customScope" value="Current File" />
+    <option name="defaultScopeName" value="Current File" />
+    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="FILE_MASK" value="*.cfm, *.cfml, *.cfc, *.js, *.properties" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,8 +14,8 @@
       <mask>*.mxml</mask>
       <mask>*.cfm, *.cfml, *.cfc, *.js</mask>
       <mask>*.css</mask>
-      <mask>*.cfm, *.cfml, *.cfc, *.js, *.properties</mask>
       <mask>*.java</mask>
+      <mask>*.cfm, *.cfml, *.cfc, *.js, *.properties</mask>
     </recentFileMasks>
   </component>
 </application>
