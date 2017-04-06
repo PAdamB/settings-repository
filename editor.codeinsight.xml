@@ -1,5 +1,4 @@
 <application>
-  <component name="DaemonCodeAnalyzerSettings" profile="Inspections" />
   <component name="JSCodeFoldingSettings">
     <option name="collapseJSImports" value="false" />
     <option name="collapseTSImports" value="false" />

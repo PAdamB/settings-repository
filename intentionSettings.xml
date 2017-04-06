@@ -1,0 +1,11 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Flow JS/Specify variable type explicitly" />
+    <ignoreAction name="JavaScript/Replace string with template string" />
+    <ignoreAction name="JavaScript/Comments/Replace With End Of Line Comment" />
+    <ignoreAction name="JavaScript/Control Flow/Replace Switch With If" />
+    <ignoreAction name="JavaScript/Other/Replace Double-Quoted String with Single-Quoted String" />
+    <ignoreAction name="JavaScript/Shift Operation/Replace Multiply with Shift" />
+    <ignoreAction name="JavaScript/Shift Operation/Replace Shift with Multiply" />
+  </component>
+</application>
