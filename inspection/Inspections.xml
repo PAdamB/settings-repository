@@ -30,7 +30,6 @@
   <inspection_tool class="BooleanConstructor" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="BooleanMethodIsAlwaysInverted" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="BoxingBoxedValue" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="BreakStatementWithLabelJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BvConfigDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="BvConstraintMappingsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CStyleArrayDeclaration" enabled="false" level="INFORMATION" enabled_by_default="false" />
@@ -335,7 +334,6 @@
   <inspection_tool class="InvalidRequestParameters" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSClassNamingConvention" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JSFunctionExpressionToArrowFunction" enabled="false" level="INFORMATION" enabled_by_default="false" />
-  <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="JSStringConcatenationToES6Template" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="JUnit4AnnotatedMethodInJUnit3TestCase" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Java8CollectionRemoveIf" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -432,6 +430,7 @@
   <inspection_tool class="LoopStatementsThatDontLoop" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LoopToCallChain" enabled="false" level="INFO" enabled_by_default="false" />
   <inspection_tool class="MagicConstant" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="MagicNumberJS" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="MalformedFormatString" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MalformedRegex" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MalformedXPath" enabled="false" level="WARNING" enabled_by_default="false" />
