@@ -32,7 +32,6 @@
   <inspection_tool class="BooleanConstructor" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="BooleanMethodIsAlwaysInverted" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="BoxingBoxedValue" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="BreakStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BreakStatementWithLabelJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BvConfigDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="BvConstraintMappingsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -81,7 +80,6 @@
   <inspection_tool class="CollectionAddedToSelf" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ComparatorCombinators" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ComparatorMethodParameterNotUsed" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="ConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConditionalExpressionWithIdenticalBranchesJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConflictingAnnotations" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ConflictingExtensionProperty" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -432,10 +430,6 @@
     <option name="m_minLength" value="1" />
     <option name="m_maxLength" value="32" />
   </inspection_tool>
-  <inspection_tool class="LoggerInitializedWithForeignClass" enabled="false" level="WARNING" enabled_by_default="false">
-    <option name="loggerClassName" value="org.apache.log4j.Logger,org.slf4j.LoggerFactory,org.apache.commons.logging.LogFactory,java.util.logging.Logger" />
-    <option name="loggerFactoryMethodName" value="getLogger,getLogger,getLog,getLogger" />
-  </inspection_tool>
   <inspection_tool class="LongLiteralsEndingWithLowercaseL" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LoopStatementsThatDontLoop" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LoopToCallChain" enabled="false" level="INFO" enabled_by_default="false" />
@@ -457,6 +451,9 @@
       <value />
     </option>
     <option name="updateNames">
+      <value />
+    </option>
+    <option name="ignoredClasses">
       <value />
     </option>
   </inspection_tool>
