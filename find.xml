@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cfm, *.cfml, *.cfc, *.css, *.js, *.properties" />
+    <option name="FILE_MASK" value="*.cfm, *.cfml, *.cfc, *.cfm, *.cfml, *.cfm, *.cfml, *.cfc, *.js, *.properties" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,11 +23,17 @@
       <mask>*.c</mask>
       <mask>*.cf</mask>
       <mask>*.cfm, *.cfml, *.cfc, *.js, *.properties</mask>
-      <mask>*.cfm, *.cfml, *.cfc</mask>
-      <mask>*.cfm, *.cfml, *.cfc,</mask>
       <mask>*.cfm, *.cfml, *.cfm, *.cfml, *.cfc, *.js, *.properties</mask>
       <mask>*.cfm, *.cfml, *.cfm,x *.cfml, *.cfc, *.js, *.properties</mask>
       <mask>*.cfm, *.cfml, *.cfc, *.css, *.js, *.properties</mask>
+      <mask>*.cfm, *.cfml, *.cfc</mask>
+      <mask>*.cfm, *.cfml, *.cfc,</mask>
+      <mask>*.cfm, *.cfml, *.cfc, (</mask>
+      <mask>*.cfm, *.cfml, *.cfc,</mask>
+      <mask>*.cfm, *.cfml, *.cfc, */</mask>
+      <mask>*.cfm, *.cfml, *.cfc, *</mask>
+      <mask>*.cfm, *.cfml, *.cfc, *.</mask>
+      <mask>*.cfm, *.cfml, *.cfc, *.cfm, *.cfml, *.cfm, *.cfml, *.cfc, *.js, *.properties</mask>
     </recentFileMasks>
   </component>
 </application>
