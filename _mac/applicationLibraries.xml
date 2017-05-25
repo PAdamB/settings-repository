@@ -1,0 +1,26 @@
+<application>
+  <component name="libraryTable">
+    <library name="jQuery 1.9.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.9.1" />
+      </properties>
+      <CLASSES>
+        <root url="file:///private/var/www/shared/includes/javascript/jquery-1.9.1.min.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jQuery UI 1.10.3" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery UI" />
+        <option name="frameworkVersion" value="1.10.3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///private/var/www/shared/includes/javascript/jqueryui/jquery-ui-1.10.3.custom.min.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
