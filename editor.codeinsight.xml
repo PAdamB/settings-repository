@@ -1,11 +1,5 @@
 <application>
-  <component name="DaemonCodeAnalyzerSettings" profile="Inspections" />
-  <component name="JSCodeFoldingSettings">
-    <option name="collapseJSImports" value="false" />
-    <option name="collapseTSImports" value="false" />
-    <option name="COLLAPSE_JS_IMPORTS" value="false" />
-    <option name="COLLAPSE_TS_IMPORTS" value="false" />
-  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Inspections.Java" />
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseI18nMessages" value="false" />
