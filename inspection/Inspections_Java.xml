@@ -513,11 +513,6 @@
   <inspection_tool class="IfThenToElvis" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="IfThenToSafeAccess" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="IgnoredJUnitTest" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ImplicitNumericConversion" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="ignoreWideningConversions" value="false" />
-    <option name="ignoreCharConversions" value="false" />
-    <option name="ignoreConstantConversions" value="false" />
-  </inspection_tool>
   <inspection_tool class="InconsistentLanguageLevel" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="IncorrectOnMessageMethodsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -982,6 +977,7 @@
   <inspection_tool class="SafeLock" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SafeVarargsDetector" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SamePackageImport" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="SameParameterValue" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SassScssResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="SassScssUnresolvedMixin" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SassScssUnresolvedPlaceholderSelector" enabled="false" level="WARNING" enabled_by_default="false" />
