@@ -152,10 +152,6 @@
   <inspection_tool class="CfmlReferenceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ChainedEquality" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ChainedEqualityJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ChainedMethodCall" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_ignoreFieldInitializations" value="true" />
-    <option name="m_ignoreThisSuperCalls" value="true" />
-  </inspection_tool>
   <inspection_tool class="ChangeToOperator" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="ChannelResource" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="insideTryAllowed" value="false" />
@@ -178,11 +174,6 @@
   <inspection_tool class="ClassNameDiffersFromFileName" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ClassNamePrefixedWithPackageName" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ClassNameSameAsAncestorName" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ClassNamingConvention" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_regex" value="[A-Z][A-Za-z\d]*" />
-    <option name="m_minLength" value="8" />
-    <option name="m_maxLength" value="64" />
-  </inspection_tool>
   <inspection_tool class="ClassNewInstance" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ClassOnlyUsedInOneModule" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ClassOnlyUsedInOnePackage" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -203,10 +194,6 @@
   </inspection_tool>
   <inspection_tool class="ClassWithTooManyTransitiveDependents" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="limit" value="35" />
-  </inspection_tool>
-  <inspection_tool class="ClassWithoutLogger" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="loggerNamesString" value="java.util.logging.Logger,org.slf4j.Logger,org.apache.commons.logging.Log,org.apache.log4j.Logger" />
-    <option name="ignoreSuperLoggers" value="false" />
   </inspection_tool>
   <inspection_tool class="CloneCallsConstructors" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CloneInNonCloneableClass" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -388,9 +375,6 @@
   <inspection_tool class="ExternalizableWithoutPublicNoArgConstructor" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="FacesModelInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="FallthruInSwitchStatement" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="FeatureEnvy" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="ignoreTestCases" value="false" />
-  </inspection_tool>
   <inspection_tool class="FieldAccessedSynchronizedAndUnsynchronized" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="countGettersAndSetters" value="false" />
   </inspection_tool>
@@ -497,10 +481,6 @@
   <inspection_tool class="GroovyUnusedIncOrDec" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="GroovyVariableNotAssigned" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="HamlNestedTagContent" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="HardcodedFileSeparators" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_recognizeExampleMediaType" value="false" />
-  </inspection_tool>
-  <inspection_tool class="HardcodedLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="HasPlatformType" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="HashCodeUsesNonFinalVariable" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="HibernateResource" enabled="true" level="WARNING" enabled_by_default="true">
@@ -700,19 +680,11 @@
     <option name="m_ignoreInvisibleFields" value="true" />
     <option name="m_ignoreStaticMethods" value="true" />
   </inspection_tool>
-  <inspection_tool class="LocalVariableNamingConvention" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_ignoreForLoopParameters" value="false" />
-    <option name="m_ignoreCatchParameters" value="false" />
-    <option name="m_regex" value="[a-z][A-Za-z\d]*" />
-    <option name="m_minLength" value="1" />
-    <option name="m_maxLength" value="20" />
-  </inspection_tool>
   <inspection_tool class="LocalVariableNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[a-z][A-Za-z]*" />
     <option name="m_minLength" value="1" />
     <option name="m_maxLength" value="32" />
   </inspection_tool>
-  <inspection_tool class="LocalVariableOfConcreteClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LogStatementGuardedByLogCondition" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LoggerInitializedWithForeignClass" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="loggerFactoryMethodName" value="getLogger,getLogger,getLog,getLogger" />
@@ -876,11 +848,6 @@
   <inspection_tool class="PackageDotHtmlMayBePackageInfo" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PackageInMultipleModules" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PackageInfoWithoutPackage" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="PackageNamingConvention" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_regex" value="[a-z]*" />
-    <option name="m_minLength" value="3" />
-    <option name="m_maxLength" value="16" />
-  </inspection_tool>
   <inspection_tool class="PackageVisibleField" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PackageVisibleInnerClass" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreEnums" value="false" />
@@ -941,12 +908,6 @@
   <inspection_tool class="PublicInnerClass" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreEnums" value="false" />
     <option name="ignoreInterfaces" value="false" />
-  </inspection_tool>
-  <inspection_tool class="PublicMethodNotExposedInInterface" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="ignorableAnnotations">
-      <value />
-    </option>
-    <option name="onlyWarnIfContainingClassImplementsAnInterface" value="false" />
   </inspection_tool>
   <inspection_tool class="PublicStaticArrayField" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PublicStaticCollectionField" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -1140,11 +1101,7 @@
     <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="StaticMethodOnlyUsedInOneClass" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="StaticNonFinalField" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StaticSuite" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="StaticVariableInitialization" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_ignorePrimitives" value="false" />
-  </inspection_tool>
   <inspection_tool class="StaticVariableOfConcreteClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StaticVariableUninitializedUse" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_ignorePrimitives" value="false" />
@@ -1156,7 +1113,6 @@
   <inspection_tool class="StringConcatenationArgumentToLogCall" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StringConcatenationInFormatCall" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StringConcatenationInMessageFormatCall" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="StringConcatenationMissingWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StringEqualsEmptyString" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StringLiteralBreaksHTMLJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StringReplaceableByStringBuffer" enabled="true" level="WARNING" enabled_by_default="true">
@@ -1166,7 +1122,7 @@
   <inspection_tool class="SubtractionInCompareTo" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SuperClassHasFrequentlyUsedInheritors" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SuperTearDownInFinally" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="SuppressionAnnotation" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="SuppressionAnnotation" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="myAllowedSuppressions">
       <list>
         <option value="ObjectAllocationInLoop" />
@@ -1200,7 +1156,6 @@
     <option name="ignoreSynchronizedSuperMethods" value="true" />
   </inspection_tool>
   <inspection_tool class="SynchronizedOnLiteralObject" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="SystemExit" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SystemGC" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SystemGetenv" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SystemOutErr" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -1325,7 +1280,6 @@
   <inspection_tool class="UnqualifiedInnerClassAccess" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreReferencesToLocalInnerClasses" value="false" />
   </inspection_tool>
-  <inspection_tool class="UnqualifiedMethodAccess" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnresolvedMessageChannel" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnresolvedReference" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="UnsafeCastFromDynamic" enabled="false" level="INFO" enabled_by_default="false" />
