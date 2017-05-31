@@ -20,14 +20,12 @@
   <inspection_tool class="AlphaUnsortedPropertiesFile" enabled="true" level="INFO" enabled_by_default="true" />
   <inspection_tool class="AmbiguousFieldAccess" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AmbiguousMethodCall" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="AnnotationClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AnnotationNamingConvention" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[A-Z][A-Za-z\d]*" />
     <option name="m_minLength" value="8" />
     <option name="m_maxLength" value="64" />
   </inspection_tool>
   <inspection_tool class="AnonymousClassVariableHidesContainingMethodVariable" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="AnonymousInnerClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AnonymousInnerClassMayBeStatic" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ArgNamesErrorsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="ArgNamesWarningsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -38,7 +36,6 @@
   <inspection_tool class="AssertEqualsCalledOnArray" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssertEqualsMayBeAssertSame" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssertMessageNotString" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="AssertStatement" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssertsWithoutMessages" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssignmentResultUsedJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssignmentToCatchBlockParameter" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -61,11 +58,7 @@
   <inspection_tool class="AssignmentToStaticFieldFromInstanceMethod" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssignmentToSuperclassField" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssignmentUsedAsCondition" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="AutoBoxing" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="ignoreAddedToCollection" value="false" />
-  </inspection_tool>
   <inspection_tool class="AutoCloseableResource" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="AutoUnboxing" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AutowiredDependenciesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AwaitNotInLoop" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AwaitWithoutCorrespondingSignal" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -339,7 +332,6 @@
   <inspection_tool class="EmptySynchronizedStatement" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EmptyTryBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EnumAsName" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="EnumClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EnumSwitchStatementWhichMissesCases" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreSwitchStatementsWithDefault" value="false" />
   </inspection_tool>
@@ -422,7 +414,6 @@
   <inspection_tool class="ForLoopWithMissingComponent" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreCollectionLoops" value="false" />
   </inspection_tool>
-  <inspection_tool class="ForeachStatement" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="FunctionNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[a-z][A-Za-z]*" />
     <option name="m_minLength" value="4" />
@@ -926,7 +917,6 @@
   </inspection_tool>
   <inspection_tool class="RSReferenceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RandomDoubleForRandomInteger" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="RedundantFieldInitialization" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="RedundantIf" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RedundantImplements" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreSerializable" value="false" />
@@ -1274,9 +1264,6 @@
     <option name="ignoreReferences" value="true" />
     <option name="ignoreComplexLiterals" value="false" />
   </inspection_tool>
-  <inspection_tool class="UnqualifiedInnerClassAccess" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="ignoreReferencesToLocalInnerClasses" value="false" />
-  </inspection_tool>
   <inspection_tool class="UnresolvedMessageChannel" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnresolvedReference" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="UnsafeCastFromDynamic" enabled="false" level="INFO" enabled_by_default="false" />
@@ -1321,6 +1308,7 @@
     </option>
     <option name="ignoreClassesWithOnlyMain" value="false" />
   </inspection_tool>
+  <inspection_tool class="VarargParameter" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="VariableNotUsedInsideIf" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="VoidExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="VoidMethodAnnotatedWithGET" enabled="false" level="WARNING" enabled_by_default="false" />
