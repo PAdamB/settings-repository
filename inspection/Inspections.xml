@@ -3,7 +3,6 @@
   <inspection_tool class="AbstractBeanReferencesInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="AccessStaticViaInstance" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AddVarianceModifier" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="AlphaUnsortedPropertiesFile" enabled="true" level="INFO" enabled_by_default="true" />
   <inspection_tool class="Anonymous2MethodRef" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AnonymousHasLambdaAlternative" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ArgNamesErrorsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
