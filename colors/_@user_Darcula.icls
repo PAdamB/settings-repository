@@ -1,9 +1,10 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-02-02T12:26:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2017-02-02T14:11:23</property>
+    <property name="modified">2017-06-12T10:11:59</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <font>
@@ -263,7 +264,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="aeae80" />
+        <option name="EFFECT_COLOR" value="756d56" />
         <option name="ERROR_STRIPE_COLOR" value="756d56" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -396,7 +397,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a8c023" />
+        <option name="FOREGROUND" value="977ab" />
+        <option name="BACKGROUND" value="3c3f41" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
@@ -422,7 +424,6 @@
       <value>
         <option name="BACKGROUND" value="52503a" />
         <option name="ERROR_STRIPE_COLOR" value="be9117" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
