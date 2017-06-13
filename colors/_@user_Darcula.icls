@@ -4,7 +4,7 @@
     <property name="created">2017-02-02T12:26:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2017-06-13T14:11:06</property>
+    <property name="modified">2017-06-13T14:20:33</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <font>
@@ -113,7 +113,7 @@
     </option>
     <option name="Comment">
       <value>
-        <option name="FOREGROUND" value="629755" />
+        <option name="FOREGROUND" value="999999" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
