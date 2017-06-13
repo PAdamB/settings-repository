@@ -1,5 +1,5 @@
 <application>
-  <component name="DaemonCodeAnalyzerSettings" profile="Inspections.Java" />
+  <component name="DaemonCodeAnalyzerSettings" profile="Inspections" />
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseI18nMessages" value="false" />
