@@ -4,7 +4,7 @@
     <property name="created">2017-02-02T12:26:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2017-06-14T16:49:56</property>
+    <property name="modified">2017-06-19T11:46:45</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <font>
@@ -98,7 +98,7 @@
     </option>
     <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="e5bc62" />
       </value>
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES">
@@ -113,7 +113,7 @@
     </option>
     <option name="Comment">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="666666" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -131,7 +131,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="666666" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -194,7 +194,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="666666" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
