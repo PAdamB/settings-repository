@@ -9,16 +9,16 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
-  <action id="EditorMoveToPageBottom">
+  <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
-  <action id="EditorMoveToPageBottomWithSelection">
+  <action id="EditorTextEndWithSelection">
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
-  <action id="EditorMoveToPageTop">
+  <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
-  <action id="EditorMoveToPageTopWithSelection">
+  <action id="EditorTextStartWithSelection">
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="IncrementWindowHeight" />
