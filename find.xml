@@ -3,6 +3,7 @@
     <option name="customScope" value="DevCenter" />
     <option name="defaultScopeName" value="DevCenter" />
     <option name="SEARCH_SCOPE" value="DevCenter" />
+    <option name="FILE_MASK" value="*.cfm, *.cfml, *.cfc" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -12,17 +13,13 @@
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
-      <mask>*.cfm, *.cfml, *.cfc, *.js</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.c</mask>
       <mask>*.cf</mask>
       <mask>*.cfm, *.cfml, *.cfc, *.js, *.properties</mask>
       <mask>*.cfm, *.cfml, *.cfm, *.cfml, *.cfc, *.js, *.properties</mask>
       <mask>*.cfm, *.cfml, *.cfm,x *.cfml, *.cfc, *.js, *.properties</mask>
-      <mask>*.cfm, *.cfml, *.cfc</mask>
       <mask>*.cfm, *.cfml, *.cfc,</mask>
       <mask>*.cfm, *.cfml, *.cfc, (</mask>
       <mask>*.cfm, *.cfml, *.cfc,</mask>
@@ -32,6 +29,12 @@
       <mask>*.cfm, *.cfml, *.cfc, *.cfm, *.cfml, *.cfm, *.cfml, *.cfc, *.js, *.properties</mask>
       <mask>*.cfm, *.cfml, *.cfc, *.css, *.js, *.properties</mask>
       <mask>*.cfm, *.cfml, *.cfc, *.css, *.js, *.propertiesapplication.errObject</mask>
+      <mask>*/</mask>
+      <mask>*</mask>
+      <mask>*.c</mask>
+      <mask>*.cfm</mask>
+      <mask>*.cfm, *.cfml, *.cfc, *.js</mask>
+      <mask>*.cfm, *.cfml, *.cfc</mask>
     </recentFileMasks>
   </component>
 </application>
