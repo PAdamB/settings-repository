@@ -13,6 +13,10 @@
   </option>
   <option name="RIGHT_MARGIN" value="500" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_LOWER_CASE" value="true" />
+    <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
+  </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="SPACE_BEFORE_CLASS_LBRACE" value="false" />
