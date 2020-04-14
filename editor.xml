@@ -1,0 +1,38 @@
+<application>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="CFML" value="true" />
+        <entry key="CSS" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JAVA" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="JavaScript" value="true" />
+        <entry key="LESS" value="true" />
+        <entry key="SASS" value="true" />
+        <entry key="SCSS" value="true" />
+        <entry key="TypeScript" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
+    <option name="CUSTOM_SOFT_WRAP_INDENT" value="4" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="IS_DND_ENABLED" value="false" />
+  </component>
+  <component name="SpringEditorOptions">
+    <option name="showMultipleContextsPanel" value="false" />
+    <option name="showProfilesPanel" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern icon="important" pattern="\bfixme\b.*" />
+    <pattern icon="question" pattern="\bxxx\b.*" />
+  </component>
+</application>
