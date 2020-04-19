@@ -5,33 +5,13 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cfm, *.cfml, *.cfc" />
-    <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.cfm, *.cfml, *.cfc, *.js, *.properties</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
-      <mask>*.cf</mask>
-      <mask>*.cfm, *.cfml, *.cfc, *.js</mask>
-      <mask>*.properties</mask>
-      <mask>*.css</mask>
-      <mask>*.cfm, *.cfml, *.cfc,</mask>
-      <mask>*.cfm, *.cfml, *.cfc, *</mask>
-      <mask>*.cfm, *.cfml, *.cfc, *.</mask>
-      <mask>*.cfm, *.cfml, *.cfc, *.c</mask>
-      <mask>*.cfm, *.cfml, *.cfc, *.cs</mask>
-      <mask>*.cfm, *.cfml, *.cfc, *.css</mask>
-      <mask>*.json</mask>
-      <mask>*.cfm, *.cfml, *.cfm, *.cfml, *.cfc</mask>
-      <mask>*.java</mask>
-      <mask>*.cfc</mask>
-      <mask>*.cfm, *.cfml, *.cfc</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.cfm, *.cfc" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*.cfm, *.cfc</mask>
   </component>
 </application>
