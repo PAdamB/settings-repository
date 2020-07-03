@@ -422,10 +422,14 @@
     <option name="TABLE_ALTER_INSTRUCTION_ALIGN" value="false" />
     <option name="POST_OPT_WRAP_1" value="true" />
     <option name="POST_OPT_ALIGN" value="false" />
+    <option name="ROUTINE_ARG_CONTENT" value="2" />
+    <option name="ROUTINE_ARG_CLOSING" value="3" />
+    <option name="ROUTINE_ARG_WRAP" value="1" />
     <option name="ROUTINE_ARG_COMMA" value="2" />
     <option name="IMP_COMMON_KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="IMP_DECLARE_EL_WRAP" value="3" />
     <option name="IMP_DECLARE_ALIGN_TYPE" value="false" />
+    <option name="IMP_DECLARE_ALIGN_DEFAULT" value="true" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
     <option name="EXPR_BINARY_OP_ALIGN" value="false" />
